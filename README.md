@@ -33,4 +33,4 @@
 
 ---
 
-# <p align="center"><b>“🤖 Enjoy Making Robots, and Dance with Them 💃”</b></p>
+# <p align="center"><b>“🤖 Enjoy Making Robots, and Dance with Them”</b></p>
